@@ -1,6 +1,6 @@
-## 👋 안녕하세요! 2zji입니다.
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=2zji's%20GitHub&fontSize=40&animation=fadeIn&fontAlignY=38&desc=환영합니다!&descAlignY=51&descAlign=62)
+
+<p>사용자를 우선으로 생각하는 개발자 '윤예지'입니다</p>
 
 ### 🔧 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
