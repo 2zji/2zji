@@ -20,9 +20,8 @@
 - ✍️ 글쓰기와 기획도 즐깁니다.
 
 ### 📫 연락하기
-- Email: your-email@example.com
-- Blog: [블로그 링크](https://your-blog-url.com)
-- Portfolio: [포트폴리오](https://your-portfolio-url.com)
+- Email: s2313@e-mirim.hs.kr
+- insta : https://www.instagram.com/hexv0n?igsh=Z3Y3azFqaHdmdnQ4
 
 ---
 
