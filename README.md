@@ -37,4 +37,4 @@
 ---
 
 <!-- footer 대신 헤더 느낌 유지하며 닫기 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7cb342&height=200&section=footer)
