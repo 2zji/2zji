@@ -25,7 +25,7 @@
 - 👯 **협업과 커뮤니케이션**을 좋아해요.
 
 ### 📫 연락하기
-- 📧 Email: [s2313@e-mirim.hs.kr](mailto:s2313@e-mirim.hs.kr)
+- 📧 Email: [yunj3747@gmail.com](mailto:yunj3747@gmail.com)
 - 📸 Instagram: [@hexv0n](https://www.instagram.com/hexv0n?igsh=Z3Y3azFqaHdmdnQ4)
 
 ---
