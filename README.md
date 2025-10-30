@@ -38,15 +38,6 @@
 
 ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2zji&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/2zji"
-  width="600"
-  height="300"
-/>
-</a>
-
----
 
 <!-- footer 대신 헤더 느낌 유지하며 닫기 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=7cb342&height=200&section=footer)
