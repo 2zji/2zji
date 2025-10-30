@@ -38,12 +38,12 @@
 
 ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2zji&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/2zji"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2zji&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/2zji"
+  width="600"
+  height="300"
+/>
 </a>
 
 ---
