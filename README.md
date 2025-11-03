@@ -32,8 +32,6 @@
 
 ### 📊 GitHub 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2zji&show_icons=true&theme=tokyonight&title_color=32CD32&icon_color=32CD32"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2zji&layout=compact&theme=tokyonight&title_color=32CD32"/>
 </p>
 
 ---
